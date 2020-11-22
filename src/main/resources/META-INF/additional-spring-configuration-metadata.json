@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "MY_SECRET",
+      "type": "java.lang.String",
+      "description": "Description for MY_SECRET.",
+
+    }
+] }
